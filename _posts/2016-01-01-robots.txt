@@ -1,0 +1,10 @@
+---
+layout: null
+permalink: robots.txt
+---
+# filter pages and documents for the noindex key
+{% assign noindexPages = site.pages | where: 'noindex', true %}
+{% assign noindexDocuments = site.documents | where: 'noindex', true %}
+User-agent: *
+# robotstxt.org - if _config production variable is false robots will be disallowed.
+Disallow: /
