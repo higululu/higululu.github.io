@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "16 weeks"
-categories: gululu weekly
+categories: weekly
 ---
 
 *  3个月23天

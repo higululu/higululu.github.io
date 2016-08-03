@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "12 weeks"
-categories: gululu weekly
+categories: weekly
 ---
 
 * 第一次给gululu写blog 第91天
