@@ -11,5 +11,5 @@ categories: gululu weekly
 2. 咕噜噜这周开始测试他能所发出的各种声音了：尖叫、大笑都不在话下
 3. 7月2号的时候咕噜噜竟然很大声的叫了声“妈”， 把他妈妈感动的热泪盈眶。咕噜噜咱什么时候可以叫爸爸呀
 4. 咕噜噜这周尝试翻身啦，但是还没成功，下周要继续加油哦
-![image](https://www.dropbox.com/s/irpi7czsjsmaqcv/2016-07-03%2016.12.23.jpg?raw=1)
+![image]({{ site.url }}/assets/images/3.jpg)
 
