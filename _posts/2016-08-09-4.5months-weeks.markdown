@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "4.5 months summary"
+title:  "四个月总结"
 categories: weekly
 ---
 
@@ -32,5 +32,5 @@ categories: weekly
 头看那些困难，和很多我的朋友比我已经是非常幸运的了，未来还有更多挑战，但看到胖乎乎的咕噜噜妈妈和爸爸就浑身充满
 力量！
 
-![image]({{ site.url }}/assets/images/5.jpg)
+![image]({{ site.url }}/assets/images/6.jpg)
 
